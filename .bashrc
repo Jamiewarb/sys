@@ -14,9 +14,6 @@ alias grm="git rm"
 alias gmv="git mv"
 alias gbr="git branch"
 
-alias balena="ssh jw715@balena.bath.ac.uk"
-alias lcpu="ssh jw715@lcpu.bath.ac.uk"
-
 alias subl=sublime
 
 #--------------------------#
